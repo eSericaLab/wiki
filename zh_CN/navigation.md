@@ -19,25 +19,53 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[新手教程](pages/tutorial.md)
-[进阶教程](pages/advance.md)
+[新手教程]()
 
+   * [基础教程](pages/tutorial.md)
+   * [进阶教程](pages/advance.md)
 
-[Menu Item 1]()
+[军事篇]()
 
-  * # SubMenu Heading 1
-  * [SubMenu Item 1](pages/subitem1.md)
-  * [SubMenu Item 2](pages/subitem2.md)
+  * # 战争
+  * [宣战](pages/war.md)
+  * [战场](pages/battle.md)
+   - - - -
+  * # 军备
+  * [装备](pages/equip.md)
+  * [训练](pages/train.md)
   - - - -
-  * # SubMenu Heading 2
-  * [SubMenu Item 3](pages/subitem3.md)
+  * # 进阶
+  * [军团](pages/mu.md)
+  * [事件](pages/event.md)
+  * [伤害公式](pages/damage.md)
+
+[政治篇]()
+
+  * # 参政
+  * [天命](pages/mandate.md)
+  * [科举](pages/exam.md)
   - - - -
-  * # SubMenu Heading 3
-  * [SubMenu Item 3](pages/subitem3.md)
+  * # 管理
+  * [诏令](pages/emperor.md)
+  * [奏折](pages/cabinet.md)
+  - - - -
+  * # 移民
+  * [移民](pages/migration.md)
+  
+[经济篇]()
 
-[Menu Item 2](pages/item2.md)
-
-[Menu Item 3](pages/item3.md)
+   * # 生产
+   * [工作](pages/work.md)
+   * [产量公式](pages/productivity.md)
+   - - - -
+   * # 集市
+   * [货币易换](pages/money.md)
+   * [物资集市](pages/market.md)
+   - - - -
+   * # 公司
+   * [公司](pages/company.md)
+   
+[游戏社区](pages/community.md)
 <!-- A more complex navigation example: ----------------------------------------
 
 ---------------------------------------------------------------------------- -->
