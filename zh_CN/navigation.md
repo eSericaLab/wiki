@@ -19,6 +19,8 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
+[主站](https://zssanguo.com/html/index.html)
+
 [新手教程]()
 
    * [基础教程](pages/tutorial.md)
