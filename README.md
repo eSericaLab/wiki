@@ -125,3 +125,6 @@ Update MDwiki
 1. Commit and push your changes
 
 You can now delete any files downloaded previously, if you want to.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEwMDAzOTIwODBdfQ==
+-->
