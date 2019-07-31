@@ -1,7 +1,7 @@
 {
   "additionalFooterText": "&copy; 轉世三國&nbsp;",
   "anchorCharacter": "#",
-  "lineBreaks": "original",
+  "lineBreaks": "gfm",
   "title": "轉世三國wiki",
   "useSideMenu": true
 }
