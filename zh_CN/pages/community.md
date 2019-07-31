@@ -37,8 +37,8 @@
 联系FUZE将你添加为项目成员<br>
 
 ###如何编辑？
-可以在github上直接点击🖊在线编辑<br>
-但是教程均用markdown语言实现文档的格式。<br>
+如果只修改文字：可以在github上直接点击🖊在线编辑<br>
+如果需要复杂修改：wiki均用markdown语言实现文档的格式。<br>
 不懂markdown语言？<br>
 没关系，通过以下方法可以在线快速编辑<br>
 <br>
@@ -62,5 +62,5 @@ Branch填gh-pages<br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5Nzg2MzcyMl19
+eyJoaXN0b3J5IjpbLTk1MzA5ODMwN119
 -->
