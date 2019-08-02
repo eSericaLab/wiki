@@ -21,12 +21,12 @@
 
 [主站](https://zssanguo.com/html/index.html)
 
-[新手教程]()
+[教程]()
 
    * [基础教程](pages/tutorial.md)
    * [进阶教程](pages/advance.md)
 
-[军事篇]()
+[军事]()
 
   * # 战争
   * [宣战](pages/war.md)
@@ -41,7 +41,7 @@
   * [事件](pages/event.md)
   * [伤害公式](pages/damage.md)
 
-[政治篇]()
+[政治]()
 
   * # 参政
   * [天命](pages/mandate.md)
@@ -54,7 +54,7 @@
   * # 移民
   * [移民](pages/migration.md)
   
-[经济篇]()
+[经济]()
 
    * # 生产
    * [工作](pages/work.md)
@@ -67,7 +67,14 @@
    * # 公司
    * [公司](pages/company.md)
    
-[游戏社区](pages/community.md)
+[国家]()
+
+   * [魏国](pages/weiguo.md)
+   * [蜀国](pages/shuguo.md)
+   * [吴国](pages/wuguo.md)
+   * [黄巾](pages/huangjin.md)
+   
+[社区](pages/community.md)
 <!-- A more complex navigation example: ----------------------------------------
 
 ---------------------------------------------------------------------------- -->
