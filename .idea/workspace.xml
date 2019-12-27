@@ -13,21 +13,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/zh_CN/pages/guide.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor relative-caret-position="315">
+                <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/zh_CN/pages/welovefuze.md">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zh_CN/pages/community.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor relative-caret-position="2168">
+                <caret line="53" selection-start-line="53" selection-end-line="55" selection-end-column="4" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
@@ -51,14 +55,15 @@
         <option value="$PROJECT_DIR$/zh_CN/pages/tutorial.md" />
         <option value="$PROJECT_DIR$/zh_CN/index.md" />
         <option value="$PROJECT_DIR$/zh_CN/navigation.md" />
+        <option value="$PROJECT_DIR$/zh_CN/pages/guide.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1381" />
-    <option name="y" value="142" />
-    <option name="width" value="870" />
-    <option name="height" value="744" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="2576" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -76,6 +81,11 @@
             <path>
               <item name="wiki" type="b2602c69:ProjectViewProjectNode" />
               <item name="wiki" type="462c0819:PsiDirectoryNode" />
+              <item name="ll_CC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wiki" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wiki" type="462c0819:PsiDirectoryNode" />
               <item name="zh_CN" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -83,6 +93,21 @@
               <item name="wiki" type="462c0819:PsiDirectoryNode" />
               <item name="zh_CN" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wiki" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wiki" type="462c0819:PsiDirectoryNode" />
+              <item name="zh_CN" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="uploads" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wiki" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wiki" type="462c0819:PsiDirectoryNode" />
+              <item name="zh_CN" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="uploads" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -134,18 +159,18 @@
       <option name="presentableId" value="Default" />
       <updated>1563870988293</updated>
       <workItem from="1563870989578" duration="3999000" />
-      <workItem from="1577433402244" duration="263000" />
+      <workItem from="1577433402244" duration="596000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4262000" />
+    <option name="totallyTimeSpent" value="4595000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
+    <frame x="541" y="161" width="1859" height="744" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13159968" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18341571" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -158,7 +183,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="GraphQL" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32876712" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -237,7 +262,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zh_CN/pages/guide.md">
+    <entry file="file://$PROJECT_DIR$/zh_CN/pages/welovefuze.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -245,10 +270,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zh_CN/pages/welovefuze.md">
+    <entry file="file://$PROJECT_DIR$/zh_CN/pages/community.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor />
+          <first_editor relative-caret-position="2168">
+            <caret line="53" selection-start-line="53" selection-end-line="55" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zh_CN/pages/guide.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="315">
+            <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>
