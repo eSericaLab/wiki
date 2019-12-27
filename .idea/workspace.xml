@@ -17,8 +17,8 @@
         <entry file="file://$PROJECT_DIR$/zh_CN/pages/guide.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="315">
-                <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+              <first_editor relative-caret-position="90">
+                <caret line="2" column="41" lean-forward="true" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
               </first_editor>
               <second_editor />
             </state>
@@ -159,18 +159,18 @@
       <option name="presentableId" value="Default" />
       <updated>1563870988293</updated>
       <workItem from="1563870989578" duration="3999000" />
-      <workItem from="1577433402244" duration="596000" />
+      <workItem from="1577433402244" duration="1447000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4595000" />
+    <option name="totallyTimeSpent" value="5446000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="541" y="161" width="1859" height="744" extended-state="1" />
+    <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18341571" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13159968" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -270,6 +270,12 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/zh_CN/pages/uploads/images/mobile_sidebar.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zh_CN/pages/uploads/images/mobile_navbar.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/zh_CN/pages/community.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -283,8 +289,8 @@
     <entry file="file://$PROJECT_DIR$/zh_CN/pages/guide.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="315">
-            <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+          <first_editor relative-caret-position="90">
+            <caret line="2" column="41" lean-forward="true" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
           </first_editor>
           <second_editor />
         </state>
