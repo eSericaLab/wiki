@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# 转世三国
+# 转世WIKI
 
 
 <!--
@@ -18,8 +18,6 @@
   -- Navigation
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
-
-[主站](https://zssanguo.com/html/index.html)
 
 [教程]()
 
