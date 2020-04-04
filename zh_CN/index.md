@@ -8,7 +8,7 @@
 从事生产、经营、战斗、科举乃至称帝、征服等活动。  
 
 ## 作者
-转世三国由e-sim爱好者FUZE开发并运营的免费、在线网页游戏。
-游戏工作室目前叫瓜皮游戏（Green Melon Games）
-![工具栏](uploads/images/companyLogo.png)
+转世三国由e-sim爱好者FUZE开发并运营的免费、在线网页游戏。  
+游戏工作室目前叫瓜皮游戏（Green Melon Games）  
+![公司logo](pages/uploads/images/companyLogo.png)
 
